@@ -1,4 +1,4 @@
-<script type="text/javascript>
+
             
             $("a").click(function(){ // click event on links
             
@@ -12,4 +12,4 @@
             
         });
       
-  </script>
+
